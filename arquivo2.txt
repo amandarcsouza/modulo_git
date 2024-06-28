@@ -1,0 +1,1 @@
+ OLA, MUNDO! Apos a instalacao, o comando nano esta funcionando!
